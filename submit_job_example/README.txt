@@ -1,6 +1,6 @@
 HPC Cluster job running example.
 
-HPS uzerinde job run etmek icin login.kuacc.ku.edu.tr sunucusuna ssh ile baglanilir.
+HPC uzerinde job run etmek icin login.kuacc.ku.edu.tr sunucusuna ssh ile baglanilir.
 
 Aciklamalar asagidaki sitede bulunabilir.
 
