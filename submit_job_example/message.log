@@ -1,0 +1,7 @@
+Hello World!
+
+this will be written to message.log
+
+Current date and time using str method of datetime object:
+
+2018-09-10 23:44:35.395778
