@@ -60,7 +60,9 @@ echo "==========================================================================
 # Command 1 for matrix
 echo "Running Python script..."
 # Put Python script command below
-python logisticRegression.py 
+#python logisticRegression.py 
+#python 2LayerNN.py
+python NLayerNN.py
 
 #echo "Compiling Cuda code"
 #nvcc -o a.out hello_world.cu
